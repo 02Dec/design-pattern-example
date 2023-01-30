@@ -26,7 +26,7 @@ public class Main {
 //        demoFacade();
 //        demoProxy();
 //        demoTemplate();
-        demoCommand();
+//        demoCommand();
     }
 
     /**
